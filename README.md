@@ -21,7 +21,7 @@ Responsive CSS cards using HTML and CSS
 
 ## Links
 
-- Live Site URL: (Github Pages)()
+- Live Site URL: [Github Pages](https://bccpadge.github.io/css-cards/)
 
 ### What I learned
 
